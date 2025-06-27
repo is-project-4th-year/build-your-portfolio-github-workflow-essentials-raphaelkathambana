@@ -59,4 +59,6 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
 
-![Merge Conflict Resolution showing a resolved merge conflict in a pull request](/img/merge%20conflict%20resolution.png)
+![Merge Conflict Showing in the terminal](/img/terminal_commit_conflict.png)
+
+![Merge Conflict Resolution in VS Code](/img/vscode_conflict_resolve.png)
