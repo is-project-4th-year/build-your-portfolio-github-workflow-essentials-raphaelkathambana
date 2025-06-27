@@ -2,23 +2,25 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Raphael Kathambana
+- **GitHub Username**: raphaelkathambana
+- **Email**: <raphael.kathambana@strathmore.edu>
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+[Raphael Kathambana's Portfolio Site](https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-raphaelkathambana/)
 
 ## 3. Learnings from the Git Crash Program
 
 List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
 
-Example format:
-
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+- **Milestones and Issues**: Enabled me to track progress and manage tasks efficiently by breaking down the project into manageable parts.
+- **Project Board**: Allowed me to visualize the workflow and prioritize tasks, making it easier to see what needed to be done next.
+- **Pull Requests**: Facilitated code reviews and discussions, ensuring that changes were well-documented and approved before merging into the main branch.
+- **Merge Conflict Resolution**: Taught me how to handle conflicts that arise when multiple changes are made to the same part of the code, ensuring a smooth integration process.
+- **Commit Messages**: Emphasized the importance of clear and descriptive commit messages, which helped in understanding the history of changes made to the project.
+- **Collaboration**: Improved my ability to work with others by using GitHub features like issues and pull requests to communicate changes and feedback effectively.
 
 ## 4. Screenshots of Key GitHub Features
 
