@@ -3,7 +3,7 @@
 ## 1. Student Details
 
 - **Full Name**: Raphael Kathambana
-- **GitHub Username**: raphaelkathambana
+- **GitHub Username**: [raphaelkathambana](www.github.com/raphaelkathambana)
 - **Email**: <raphael.kathambana@strathmore.edu>
 
 ## 2. Deployed Portfolio Link
