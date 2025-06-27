@@ -29,26 +29,34 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 > Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
 > (you could just simply copy and paste the image into the Assignment.md)
 
-```markdown
-![Caption](path/to/your/image.png)
-```
-
 ### A. Milestones and Issues
 
 - Screenshot showing your milestone(s) and the issues linked to it.
+
+![Milestone 1 showing project milestones and linked issues](/img/milestone%201.png)
+![Milestone 2 showing project milestones and linked issues](/img/milestone%202.png)
+![Milestone 3 showing project milestones and linked issues](/img/milestone%203.png)
 
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
 
+![Project Board showing issues organized into columns](/img/project%20board.png)
+
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
+
+![Branch List showing branches with meaningful names](/img/branches.png)
 
 ### D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
 
+![Pull Request showing an open pull request linked to an issue](/img/pull%20request.png)
+
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+
+![Merge Conflict Resolution showing a resolved merge conflict in a pull request](/img/merge%20conflict%20resolution.png)
